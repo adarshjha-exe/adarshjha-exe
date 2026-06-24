@@ -24,7 +24,6 @@
 - 👯 Open to collaborating on open-source projects and interesting web-dev problems
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, or **MongoDB**
 - 📫 Reach me at **adarshj.exe@gmail.com**
-- ⚡ Fun fact: _swap this line for something fun about you!_
 
 ---
 
